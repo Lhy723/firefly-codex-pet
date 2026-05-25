@@ -16,12 +16,19 @@ A tiny chibi digital-pet version of Firefly with silver hair, teal-and-gold outf
 
 ## Preview
 
-![idle](firefly_idle.gif)
-![walk](firefly_walk.gif)
-![run](firefly_run.gif)
-![jump](firefly_jump.gif)
-![attack](firefly_attack.gif)
-![hurt](firefly_hurt.gif)
-![sit](firefly_sit.gif)
-![sleep](firefly_sleep.gif)
-![wave](firefly_wave.gif)
+<table>
+  <tr>
+    <td><img src="firefly_idle.gif" alt="idle"></td>
+    <td><img src="firefly_walk.gif" alt="walk"></td>
+    <td><img src="firefly_run.gif" alt="run"></td>
+    <td><img src="firefly_jump.gif" alt="jump"></td>
+    <td><img src="firefly_attack.gif" alt="attack"></td>
+  </tr>
+  <tr>
+    <td><img src="firefly_hurt.gif" alt="hurt"></td>
+    <td><img src="firefly_sit.gif" alt="sit"></td>
+    <td><img src="firefly_sleep.gif" alt="sleep"></td>
+    <td><img src="firefly_wave.gif" alt="wave"></td>
+    <td></td>
+  </tr>
+</table>
