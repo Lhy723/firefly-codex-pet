@@ -14,24 +14,14 @@
    - macOS/Linux: `~/.codex/pet/`
    - Windows: `%USERPROFILE%\.codex\pet\`
 
-## 相关链接
-
-- [GitHub 仓库](https://github.com/Lhy723/firefly-codex-pet)
-
 ## 预览
 
-| 动作 | 预览 |
-|------|------|
-| 待机 | ![idle](firefly_idle.gif) |
-| 行走 | ![walk](firefly_walk.gif) |
-| 奔跑 | ![run](firefly_run.gif) |
-| 跳跃 | ![jump](firefly_jump.gif) |
-| 攻击 | ![attack](firefly_attack.gif) |
-| 受伤 | ![hurt](firefly_hurt.gif) |
-| 坐下 | ![sit](firefly_sit.gif) |
-| 睡觉 | ![sleep](firefly_sleep.gif) |
-| 挥手 | ![wave](firefly_wave.gif) |
-
-## 致谢
-
-基于 [Codex Pet](https://github.com/nicepkg/codex-pet) 浏览器扩展设计。
+![idle](firefly_idle.gif)
+![walk](firefly_walk.gif)
+![run](firefly_run.gif)
+![jump](firefly_jump.gif)
+![attack](firefly_attack.gif)
+![hurt](firefly_hurt.gif)
+![sit](firefly_sit.gif)
+![sleep](firefly_sleep.gif)
+![wave](firefly_wave.gif)

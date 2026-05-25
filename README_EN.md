@@ -14,24 +14,14 @@ A tiny chibi digital-pet version of Firefly with silver hair, teal-and-gold outf
    - macOS/Linux: `~/.codex/pet/`
    - Windows: `%USERPROFILE%\.codex\pet\`
 
-## Links
-
-- [GitHub Repository](https://github.com/Lhy723/firefly-codex-pet)
-
 ## Preview
 
-| Action | Preview |
-|--------|---------|
-| Idle | ![idle](firefly_idle.gif) |
-| Walk | ![walk](firefly_walk.gif) |
-| Run | ![run](firefly_run.gif) |
-| Jump | ![jump](firefly_jump.gif) |
-| Attack | ![attack](firefly_attack.gif) |
-| Hurt | ![hurt](firefly_hurt.gif) |
-| Sit | ![sit](firefly_sit.gif) |
-| Sleep | ![sleep](firefly_sleep.gif) |
-| Wave | ![wave](firefly_wave.gif) |
-
-## Credits
-
-Designed for the [Codex Pet](https://github.com/nicepkg/codex-pet) browser extension.
+![idle](firefly_idle.gif)
+![walk](firefly_walk.gif)
+![run](firefly_run.gif)
+![jump](firefly_jump.gif)
+![attack](firefly_attack.gif)
+![hurt](firefly_hurt.gif)
+![sit](firefly_sit.gif)
+![sleep](firefly_sleep.gif)
+![wave](firefly_wave.gif)
