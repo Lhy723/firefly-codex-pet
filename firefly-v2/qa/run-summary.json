@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/work/firefly-v2-upgrade",
+  "spritesheet": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/outputs/firefly-v2/spritesheet.webp",
+  "validation": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/outputs/firefly-v2/qa/validation-extended.json",
+  "chroma_despill": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/outputs/firefly-v2/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/outputs/firefly-v2/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/outputs/firefly-v2/qa/look-directions.png",
+  "direction_semantics": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/outputs/firefly-v2/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/outputs/firefly-v2/qa/direction-blind-validation.json",
+  "continuity": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/outputs/firefly-v2/qa/look-continuity.json",
+  "review": "/Users/lhy/Documents/Codex/2026-07-12/hatch-pet-users-lhy-codex-skills/work/firefly-v2-upgrade/qa/review.json",
+  "package": "/Users/lhy/.codex/pets/firefly"
+}

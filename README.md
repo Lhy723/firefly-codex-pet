@@ -4,13 +4,18 @@
 
 银发Q版流萤，青金配色服饰，叶形发饰，温柔粉蓝眼瞳。
 
+## 版本说明
+
+- **v1** (`firefly/`): 原始版本
+- **v2** (`firefly-v2/`): 改进版本 (推荐使用，spriteVersionNumber: 2)
+
 ## 使用方法
 
 1. 克隆仓库
    ```bash
    git clone https://github.com/Lhy723/firefly-codex-pet.git
    ```
-2. 将 `firefly` 文件夹复制到 Codex Pet 皮肤目录
+2. 将 `firefly-v2` (推荐) 或 `firefly` 文件夹复制到 Codex Pet 皮肤目录
    - macOS/Linux: `~/.codex/pet/`
    - Windows: `%USERPROFILE%\.codex\pet\`
 

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa",
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"up","reason":"Eyes and chin aim up."},
+    {"direction":"022.5","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Face and eyes aim screen-right and up."},
+    {"direction":"045","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Head and eyes aim screen-right and up."},
+    {"direction":"067.5","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Profile advances screen-right while gaze stays up."},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"right","reason":"Clear screen-right profile."},
+    {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Face and eyes aim screen-right and slightly down."},
+    {"direction":"135","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Face is screen-right with lowered gaze."},
+    {"direction":"157.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Face is screen-right and eyes aim down."},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"down","reason":"Centered bowed head and closed downward eyes."},
+    {"direction":"202.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Face and eye aim screen-left and down."},
+    {"direction":"225","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Head aims screen-left with lowered eye."},
+    {"direction":"247.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Profile aims screen-left and down."},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"left","reason":"Clear screen-left profile."},
+    {"direction":"292.5","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Face and eye aim screen-left and up."},
+    {"direction":"315","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Face aims screen-left with visibly raised eye."},
+    {"direction":"337.5","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Face and eye aim screen-left and up while approaching center."}
+  ],
+  "review_warnings": [
+    "Continuity metrics flag larger shifts at 000↔022.5 and 337.5↔000 plus local diff outliers, but normal-size review shows natural cardinal pose changes without a conspicuous snap or scale pop.",
+    "The 157.5 transparent row is intentional negative space between skirt and legs, not an interior seam."
+  ]
+}

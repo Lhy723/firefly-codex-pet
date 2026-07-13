@@ -4,13 +4,18 @@
 
 A tiny chibi digital-pet version of Firefly with silver hair, teal-and-gold outfit accents, leaf hair ornament, and gentle pink-blue eyes.
 
+## Version Notes
+
+- **v1** (`firefly/`): Original version
+- **v2** (`firefly-v2/`): Improved version (Recommended, spriteVersionNumber: 2)
+
 ## Usage
 
 1. Clone the repository
    ```bash
    git clone https://github.com/Lhy723/firefly-codex-pet.git
    ```
-2. Copy the `firefly` folder to the Codex Pet skins directory
+2. Copy the `firefly-v2` (Recommended) or `firefly` folder to the Codex Pet skins directory
    - macOS/Linux: `~/.codex/pet/`
    - Windows: `%USERPROFILE%\.codex\pet\`
 
